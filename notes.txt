@@ -1,3 +1,4 @@
 1. Plan test sprint
 2. Write automated API & UI tests and add load tests
 3. Execute test run
+4. Review test results
