@@ -3,3 +3,5 @@
 3. Execute test run
 4. Review test results
 5. Configure CI/CD pipeline
+6. Setup Selenium Grid
+7. Introduce a terrible bug
