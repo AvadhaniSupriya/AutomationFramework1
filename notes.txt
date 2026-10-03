@@ -5,3 +5,6 @@
 5. Configure CI/CD pipeline
 6.Added from Github UI
 Local change B
+
+7.Adding this local change A
+>>>>>>> 004823522d924897d4c534c821a87ea94fd521a5
