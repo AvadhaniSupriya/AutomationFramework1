@@ -4,3 +4,4 @@
 4. Review test results
 5. Configure CI/CD pipeline
 6.Added from Github UI
+7.Adding this local change A
